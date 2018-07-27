@@ -8,7 +8,7 @@ public class Main extends JavaPlugin {
     public void onEnable() {
         Bukkit.getLogger().info("Testing testing 123...");
         //github noobs
-        //Blah blah blah
+        //halb
     }
 
 }
