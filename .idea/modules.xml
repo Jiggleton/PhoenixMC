@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasePlugin/BasePlugin.iml" filepath="$PROJECT_DIR$/BasePlugin/BasePlugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/PhoenixMC.iml" filepath="$PROJECT_DIR$/PhoenixMC.iml" />
     </modules>
   </component>
